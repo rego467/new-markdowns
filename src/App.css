@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+}
+
+.markdown {
+  height: 80vh;
+  width: 400px;
+  padding: 10px;
+  background-color: whitesmoke;
+}
+
+.markdown-view {
+  padding: 30px;
+}
+
+.markdown img{
+  max-width: 100%;
+}
+
